@@ -1,11 +1,53 @@
 <!--
-WEB HEADER
-Made thanks to: https://github.com/denvercoder1/readme-typing-svg
+##########################################################################################################
+##########################################################################################################
+##########################################################################################################
+
+
+    ######                                                             #####
+    ########                                                           #######                     
+    ###  ####                                                          ##    ##                                            
+    ###    ###                                                         ##    ###
+    ###    ###  ###   ###  #########  ###   ###  ##     ##  ###   ###  ##     ###   ######    ###   ###
+    ###    ###  ###   ###  #########  ###   ###  ##    ##   ###   ###  ##     ###  ########   ###   ###
+    ###   ####  ###   ###  #########  ###   ###  ##   ##    ###   ###  ##     ###  ##    ###  ###   ###
+    ########    ###   ###  ## ### ##  ###   ###  ##  ##     ###   ###  ##     ###  ##     ##  ###   ### 
+    #######     ###   ###  ## ### ##  ###   ###  #####      ###   ###  ##     ###  ##     ##  ###   ###
+    ###         ###   ###  ## ### ##  ###   ###  #####      ###   ###  ##     ###  #########  ###   ### 
+    ###         ###   ###  ## ### ##  ###   ###  ######      ########  ##     ##   ##         ###   ###
+    ###         ###   ###  ## ### ##  ###   ###  ##  ###          ###  ##    ###   ##          ##   ## 
+    ###         ###   ###  ## ### ##  ###   ###  ##   ###         ###  ##   ###    ###   ###   ### ###    
+    ###         #########  ## ### ##  #########  ##    ###        ###  #######      #######     #####  
+    ###           #####    ## ### ##    #####    ##     ###       ###  ######         ###        ###
+                                                                 ###     
+                                                              ####
+
+
+##########################################################################################################
+##########################################################################################################
+##########################################################################################################
 -->
+
+<!-- Readme Typing SVG - https://github.com/denvercoder1/readme-typing-svg -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Adri%C3%A1n+Bertos+G%C3%B3mez+" alt="Typing SVG" /></a>
 
-<!---
-PumukyDev/PumukyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your Ggit@github.com:PumukyDev/PumukyDev.gititHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- Github Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=PumukyDev&theme=blueberry-duo&hide_border=true&border_radius=2.9&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+</details>
+
+
+
+
+
+
+
