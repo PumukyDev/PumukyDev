@@ -77,3 +77,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines==>" alt="Typing SVG" /></a>
 -->
 
+<p align='center'>
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FPumukyDev">
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPumukyDev&labelColor=%23263759&countColor=%2382aaff&style=flat" />
+    </a>
+</p>
