@@ -39,17 +39,18 @@
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,git,bash,arch&theme=dark)
+![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,git,bash,powershell,arch,ansible,docker,mysql&theme=dark)
 
 
 ## 📈 Stats
 
-<table style="border:none;margin:0 auto">
-  <tr style="border:none;">
-    <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=PumukyDev&include_all_commits=true&count_private=true&show_icons=true&theme=blueberry-duo&title_color=89ddff&text_color=82aaff&bg_color=0000&ring_color=82aaff&hide_border=true&border_radius=2.9&number_format=long&custom_title=PumukyDev%27s%20Github%20Stats" alt="My Stats"/></a></td>
-  </tr>
-</table>
-
+<!--Credits: https://github.com/anuraghazra/github-readme-stats-->
+  <img
+    height="130px"
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=PumukyDev&show_icons=true&include_all_commits=true&line_height=21&title_color=89ddff&text_color=82aaff&bg_color=0000&ring_color=82aaff&hide_border=true&border_radius=2.9&number_format=long&custom_title=PumukyDev%27s%20Github%20Stats"
+  />
 
 <details>
     <summary>🏆 <b>GitHub Awards</b></summary><br/>
